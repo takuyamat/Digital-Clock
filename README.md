@@ -27,5 +27,6 @@ Pythonのtkinterを活用して作成したデジタル時計のGUIアプリケ�
 ```bash
 pip install -r requirements.txt
 python main.py
+```
 
 ## 画像イメージ
